@@ -1,2 +1,2 @@
-# profect
-build a  trouble free shop site 
+# project
+build a  trouble free shop website 
